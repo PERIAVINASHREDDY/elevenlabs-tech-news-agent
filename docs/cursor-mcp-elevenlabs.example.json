@@ -1,0 +1,12 @@
+{
+  "_comment": "EXAMPLE ONLY. Run: python -m elevenlabs_mcp --api-key=YOUR_KEY --print  and paste that output into Cursor MCP settings. Do not commit real keys.",
+  "mcpServers": {
+    "elevenlabs": {
+      "command": "python",
+      "args": ["-m", "elevenlabs_mcp"],
+      "env": {
+        "ELEVENLABS_API_KEY": "replace-with-your-key"
+      }
+    }
+  }
+}

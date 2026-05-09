@@ -1,0 +1,2 @@
+# Optional: ElevenLabs MCP server for Cursor (see docs/setup-guide.md)
+elevenlabs-mcp
