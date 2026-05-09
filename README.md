@@ -14,8 +14,6 @@ End-to-end lab: **Cursor** → **ElevenLabs** + **Twilio** → **MCP** → **Con
 ## Quick links (from the lab)
 
 - [Cursor downloads](https://www.cursor.com/downloads)
-- Cursor on Windows: [video](https://www.youtube.com/watch?v=4Zz-vqP3nvM)
-- Cursor on Mac: [video](https://www.youtube.com/watch?v=YbyxCRBY7uA)
 - Cursor on Ubuntu: [gist](https://gist.github.com/evgenyneu/5c5c37ca68886bf1bea38026f60603b6)
 - [ElevenLabs Conversational AI](https://elevenlabs.io/app/conversational-ai)
 - [Twilio Console](https://console.twilio.com/)
