@@ -9,11 +9,8 @@ This guide walks from installing **Cursor** through **ElevenLabs**, **Twilio**, 
 ### Windows
 
 - **Download:** [https://www.cursor.com/downloads](https://www.cursor.com/downloads)
-- **Video walkthrough:** [YouTube — Cursor on Windows](https://www.youtube.com/watch?v=4Zz-vqP3nvM)
 
 ### Mac
-
-- **Video walkthrough:** [YouTube — Cursor on Mac](https://www.youtube.com/watch?v=YbyxCRBY7uA)
 
 ### Ubuntu 24.04
 
